@@ -1311,8 +1311,10 @@ console hard 5
   11
    1,R
    1,R,J,G
+   1,R,K,G
+   1,R,J,G
   18,R,G
-  20,R,D,G
+  25,R,D,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
@@ -1326,39 +1328,35 @@ console hard 5
    1,R,J,G
    1,R,K,G
    1,R,J,G
-  15,R,G
-   2,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
+   1,R,G
    1,R,K,G
    1,R,J,G
-   1,K,G
-   1,L,J,G
-  12,R,G
-   3,G
+   1,R,K,G
+   1,R,J,G
    1,L,K,G
    1,L,J,G
-   2,L,G
+   1,L,J,G
+  17,L,G
   40
 #lvl_d-04
-   5,L,G
-   4,R,G
-  23,R,D,G
+   2,L,G
+   6,L,D,G
+  18,R,D,G
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   2,R,K,G
-   1,L,J,G
+   2,L,J,G
    1,L,K,G
    1,L,J,G
    1,L,K,G
    1,L,J,G
    1,L,K,G
-   1,R,J,G
+   1,L,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
@@ -1366,16 +1364,16 @@ console hard 5
    1,R,K,G
    1,R,J,G
    1,R,K,G
-  11,R,G
+   1,R,J,G
+  10,R,G
    1,K,G
    1,R,J,G
-   1,R,K,G
-   5,R,J,G
-   1,R,K,G
+   4,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
+   1,R,J,G
   40
 #lvl_d-05
    1,R,J,G
@@ -1388,15 +1386,15 @@ console hard 5
   18,R,G
    4,R,D,G
    1,D,G
-  12,R,D,G
+  11,R,D,G
    1,R,J,G
-   3,R,K,G
+   1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J
-  10,R,U,Z
+  11,R,U,Z
   12
    1,R,K
    1,R,J

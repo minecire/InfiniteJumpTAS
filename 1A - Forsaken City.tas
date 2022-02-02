@@ -186,28 +186,34 @@ console load 1
    1,R,K
    1,R,J
    1,R,K
-   9,R
-  14,D,X
-  25,R
-   4,D,X
-   1,R,D,J
-   1,R,D,K
+   1,R,J
+   1,R,K
+  15,R,Z
+   1,L,J
+   1,R,K
+   1,R,J
+   1,R,K
+  28,R
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   2,R,K,G
+   1,R,K
+   1,R,J
+   1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,R,J,G
+   1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,R,J,G
-   7,R
+   1,R,J
+   1,R,K
+   1,R,J
+   6,R,X
   14,R
   14,U,X
   14,J
@@ -351,7 +357,8 @@ console load 1
   43
 #lvl_7
    2
-  19,R,J
+  18,R,J
+   1,R,J
   14,U,X
    2
    1,L,J
@@ -372,7 +379,7 @@ console load 1
   14,U,X
    1
   13,J
-  40,J
+  40
 #lvl_8
    5
    1,R,J
@@ -433,25 +440,16 @@ console load 1
   12,J
    3,K,G
    7,R
-   4,D,X
-   8,U,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   9,U,X
+#1509
   40
 #lvl_9
-  12,J
-   6,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   2,R,J,G
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   2,R,J
+  12,L,J
    1,R,K
    1,R,J
    1,R,K
@@ -459,20 +457,31 @@ console load 1
    1,R,K
    1,R,J
    1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
   14,U,X
-   1,L
-   2,R,J
+   6,R,J
+   1,R
    1,R,K
+   7,R
    1,R,J
    1,R,K
    1,R,J
-   3,R
-   5,L
-   2,R
-   1,R,D,J
+  10,R,D,X
    1,R,K
    1,R,J
-   4,R
+   1,R,K
    1,R,J
    1,R,K
    1,R,J
@@ -499,25 +508,14 @@ console load 1
    1,R,J
    1,R,K
    1,R,J
-   1,K,G
-   3,L,K
   14,U,X
-   2
-   1,J
-   7,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   9,R,J
+   7,J
+   3,K
+   7,R
+  11,U,X
   40
 #lvl_10a
-   4,L
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K
+  16,R,K
    1,R,J
    1,R,K
    1,R,J
@@ -527,13 +525,10 @@ console load 1
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
   14,U,X
   10,R,J
    3,J
-   7,R,J
-   1,L,K
-   1,L,J
+   2,R,J
    1,L,K
    1,L,J
    1,L,K
@@ -549,8 +544,7 @@ console load 1
    1,L,K
    1,L,J
    1,L,K
-   1,L,J
-  10,L
+  11,L
   14,D,X
   18,L,D
    1,L,J
@@ -566,7 +560,7 @@ console load 1
    1
    1,K,G
    3,L
-   5
+   4
   14,U,X
   19,J
    2,K,G

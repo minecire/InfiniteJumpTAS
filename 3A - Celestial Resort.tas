@@ -1,6 +1,6 @@
 #infinite jump celestial resort by minecire
 
-Set, ExtendedVariantMode.JumpCount, 6
+Set, ExtendedVariantMode.JumpCount, 2147483647
 
 console load 3
    1
@@ -1485,7 +1485,6 @@ console load 3
    1,L,K
    1,L,J
    1,L,K
-***
    5,L,D,X
   40
 #lvl_11-d

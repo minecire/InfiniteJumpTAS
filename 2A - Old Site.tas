@@ -1,7 +1,7 @@
 #infinite jump old site by minecire
 #in 1:16.670
 
-Set, ExtendedVariantMode.JumpCount, 6
+Set, ExtendedVariantMode.JumpCount, 2147483647
 
 console load 2
    1

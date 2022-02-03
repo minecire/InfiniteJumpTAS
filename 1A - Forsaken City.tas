@@ -1,7 +1,7 @@
 #infinite jump forsaken city by minecire
 #in 42.330
 
-Set, ExtendedVariantMode.JumpCount, 6
+Set, ExtendedVariantMode.JumpCount, 2147483647
 
 console load 1
    1

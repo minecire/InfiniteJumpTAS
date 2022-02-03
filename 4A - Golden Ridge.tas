@@ -1,6 +1,6 @@
 #Golden Ridge with Infinite Jumps TAS by minecire
 
-Set,ExtendedVariantMode.JumpCount,6
+Set,ExtendedVariantMode.JumpCount,2147483647
 console load 4
 
    1

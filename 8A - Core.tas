@@ -1,6 +1,6 @@
 #8a with infinite jumps by minecire
 
-Set, ExtendedVariantMode.JumpCount, 6
+Set, ExtendedVariantMode.JumpCount, 2147483647
 
 console load 9
 console hearts

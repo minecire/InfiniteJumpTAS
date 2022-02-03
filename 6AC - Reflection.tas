@@ -1,5 +1,5 @@
 console load 6
-Set,ExtendedVariantMode.JumpCount,6
+Set,ExtendedVariantMode.JumpCount,2147483647
    1
 
 #Start

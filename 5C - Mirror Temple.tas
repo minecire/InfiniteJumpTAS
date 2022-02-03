@@ -1,14 +1,15 @@
-#By Blobbity21 and Lmjacks
+#5c with infinite jumps by minecire
 
 Set, ExtendedVariantMode.JumpCount, 2147483647
 
-console load 0
+console rmx2 5
+
    1
 
 #Start
-#lvl_0
+
   61
-   1,R,J
+   1,R,D,J
    1,R,K
    1,R,J
    1,R,K
@@ -22,39 +23,6 @@ console load 0
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   4,R,J
-   3,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  40
-
-#lvl_1
    1,R,J
    1,R,K
    1,R,J
@@ -81,21 +49,50 @@ console load 0
    1,R,K
    1,R,J
   40
-
-#lvl_2
-   1,R,J
+#lvl_01
    1,R,K
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+  15,R,D,X
   40
-
-#lvl_3
+#lvl_02
+   1,R,D
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  15,R
+   1,L,J
+   1,R,K
+   1,L,J,G
+   1,L,K
+   1,J
+   1,K
+   1,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+  19,R,D,X
+   8,R,U,Z
+   1,K,G
+   3
+   1,L
+   3
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+  15,U,X
+  23,R,D,C
+   2,R,K,G
    1,R,J
    1,R,K
    1,R,J
@@ -107,17 +104,26 @@ console load 0
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  41,L
-   1,S
-   1,D,J
- 232
+   2,R
+  10,L
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+ 145,U,X
+  59
+   1,J

@@ -1,7 +1,7 @@
 #Mirror Temple Cassette with Infinite Jumps
 #by minecire
 
-Set,ExtendedVariantMode.JumpCount,6
+Set,ExtendedVariantMode.JumpCount,2147483647
 
 console load 5
    1

@@ -1,7 +1,7 @@
 #infinite jump summit
 #by minecire
 
-Set,ExtendedVariantMode.JumpCount,6
+Set,ExtendedVariantMode.JumpCount,2147483647
 
 console load 7
 

@@ -2,7 +2,7 @@ Set,DisableScreenShake,true
 Set,DisableFlashes,true
 Set,SpeedrunClock,2
 Set,Everest.ShowModOptionsInGame,false
-Set, ExtendedVariantMode.JumpCount, 6
+Set, ExtendedVariantMode.JumpCount, 2147483647
 EnforceMaingame
 Unsafe
 Add 2

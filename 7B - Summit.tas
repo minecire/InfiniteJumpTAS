@@ -1,4 +1,4 @@
-RecordCount: 4477
+RecordCount: 4843
 
 Set,ExtendedVariantMode.JumpCount,2147483647
 
@@ -243,34 +243,33 @@ console hard 7
 
 #500m
 #b-00
-#b-00
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+   4,L,Z
+repeat 2
+   1,L,J
+   1,L,K
+endrepeat
+   1,L,J
+   7,L
+repeat 3
+   1,L,J
+   1,L,K
+endrepeat
+   1,L,J
   15,U,X
-  17,L,J
+   5,J
+   3
+   6,J
    1,L,K
+   1,L,J
+   1,L,K
+   1,R,J
+   1,R,K
+   1,R,J
+   3,R,K
+repeat 5
+   1,R,J
+   1,R,K
+endrepeat
    1,L,J
    1,L,K
    1,L,J
@@ -280,60 +279,41 @@ console hard 7
    1,L,J
    1,L,K
    1,L,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,L,J
    1,L,K
-   1,L,J
-   1,L,K
-   1,R,J
-   1,L,K
-   1,R,J
+   2,J
+  14,U,Z
+   2,R
+  18,R,J
+   1,R,K
    1,R,J
    1,R,K
    1,R,J
-   1,L,K
-   1,L,J
-   1,L,K
-  12,L,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
   15,U,X
   18,L,J
-   1,L,K
-   1,L,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
+   5,L,K
   12,J
   12,K
-  12,J
-   1,R,K
-  11,K
-   7,J
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+  12,K
+   2,J
   40
-
 #b-01
    9,R,J,G
    1,L,K
@@ -376,7 +356,8 @@ console hard 7
    1,L,K
    1,L,J
   15,U,X
-  18,R,J
+  10,J
+   3,R,J
    1,R,K
    1,R,J
    1,R,K
@@ -384,8 +365,14 @@ console hard 7
    1,R,K
    1,R,J
    1,R,K
-  14
-  25,L
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   7,R
+  10,L
+   6
+  11,L
   10,L,J
   10,R,J
   12,K
@@ -395,7 +382,7 @@ console hard 7
   14,U,X
   10,R,J
    8,L,J
-  10,R,K
+   7,R,K
    1,L,J
    1,L,K
    1,L,J
@@ -442,10 +429,6 @@ console hard 7
    1,R,K
    1,R,J
    1,R,K
-  14,R,D,X
-   1,R,J
-   1,R,K
-  33,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -457,12 +440,14 @@ console hard 7
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
+  15,R,D,X
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J,G
    1,L,K
    1,L,J
    1,L,K
@@ -470,28 +455,18 @@ console hard 7
    1,L,K
    1,L,J
    1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,R,J
-   1,R,K
-  20,R,D
-
- 
-#37.536
-
-   4,R,Z
-   1,R,J
-   1,R,K
+   7,L,D
+  10,R,D
    1,R,J
    1,R,K
    2,R,J
    1,R,K
-   8,R
    1,R,J
+   1,R,K
+   1,J
+   1,L,K
+   1,L,J
+  18,R,D,X
    1,R,K
    1,R,J
    1,R,K
@@ -499,14 +474,40 @@ console hard 7
    1,R,K
    1,R,J
    1,R,K
+   7,R
    1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  11,R,D
+   1,R,J
+   2,R,K
+   1,R,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,R,J
+   1,R,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
    1,R
-  14,R,D,X
-   1,R,J,G
-  20,R,D
-  15,U,X
-  16,L,J
-   1,R
+   2,L
+   1,J
+  15,L
+   9,R,Z
+   1,R,J
+   1,L,K
+   1,L,J
+   1,R,K
+   1,R,J
+   4,R,K,G
    1,R,J
    1,R,K
    1,R,J
@@ -514,19 +515,13 @@ console hard 7
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  40,D
-
+   5,R,D,X
+  40
 #b-03
+  10,R,D
    1,R,K
-   2,R,J
+   1,R,J
    1,R,K
-  12,R,D,X
   27,R
   16,R
    1,R,J
@@ -536,7 +531,7 @@ console hard 7
   25,R,G
    5,R
   14,R,U,Z
-   8,R,J,G
+   9,R,J,G
    1,R,K
    1,R,J
    1,R,K
@@ -586,8 +581,8 @@ console hard 7
    1,R,K
   15,U,X
   18,L,J
-   6,L,K
-  12,R,J
+   7,L,K
+  11,R,J
   15,U,X
   18,J
    1,R,K
@@ -603,7 +598,7 @@ console hard 7
   12,J
   12,K
   12,J
-   5,K
+   8,K
 #49.368
 
 #1000m
@@ -1266,7 +1261,9 @@ console hard 7
   12,L,K
   12,J
   12,K
-   6,J
+   2,J
+   3,L,K
+   1,L,J
   40
 #e-01
    5,R,J
@@ -1276,17 +1273,19 @@ console hard 7
    1,R,J
    1,R,K
    1,R,J
+   1,R,K
   12,R,U,Z
-   2,R,J,G
+   1,R,J,G
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R
    1,R,J
+   2
+   1,R,K
    2,R
-   1,R,K
-   6,R
+   4
    1,R,J
    1,R,K
    1,R,J
@@ -1296,9 +1295,9 @@ console hard 7
    1,R,J
    1,R,K
    1,R,J
-   1
+   1,R,K
    1,R,J
-   5
+   4,R
    1,R,J
    1,R,K
    1,R,J
@@ -1308,13 +1307,15 @@ console hard 7
    1,R,J
    1,R,K
    1,R,J
-   5,R
-   1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
+   1,R,J
+   1,R,K
+   1,L,J
+   1,L,K
    1,L,J
    1,L,K
    1,L,J
@@ -2671,8 +2672,13 @@ console hard 7
    1,R,J
    1,R,K
    1,R,J
-   1,K
-   5,R
+   1,R,K
+   1
+   4,R
+   1,L,K
+   1,L,J
+   1,L,K
+   1,R,J
    1,R,K
    1,R,J
    1,R,K
@@ -2703,8 +2709,6 @@ console hard 7
    1,R,J
    1,L,K
    1,L,J
-   1,L,K
-   3,R,J,G
    1,L,K
    1,L,J
    1,L,K
@@ -2712,7 +2716,7 @@ console hard 7
   18,R,J
   14,U,C
    1,J
-   5,L,J
+   4,L,J
    1,R,K
    1,R,J
    1,R,K
@@ -2720,6 +2724,7 @@ console hard 7
    1,R,K
    1,R,J
    1,R,K
+   1,R,J
    7,R
    1,R,K
    1,R,J
@@ -2739,10 +2744,8 @@ console hard 7
    1,R,K
    1,R,J
    1,R,K
-   2,R
-   4,R,J
-   6,R
-   1,L
+   5,R,J
+   7,R
    1,L,J
    1,L,K
    1,L,J
@@ -2954,5 +2957,4 @@ console hard 7
    1,R,J
   15,U,X
   14,U,C
- 195
-   1,J
+ 136
